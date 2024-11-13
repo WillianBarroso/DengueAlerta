@@ -1,0 +1,12 @@
+/* style.css */
+
+#map {
+    height: 100vh; /* Full height of the viewport */
+    width: 100%; /* Full width of the page */
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
